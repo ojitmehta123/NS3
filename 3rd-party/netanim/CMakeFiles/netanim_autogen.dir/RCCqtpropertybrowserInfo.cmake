@@ -1,0 +1,18 @@
+# Configurations
+set(ARCC_MULTI_CONFIG "FALSE")
+set(ARCC_VERBOSITY "")
+# Settings file
+set(ARCC_SETTINGS_FILE "/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/CMakeFiles/netanim_autogen.dir/RCCqtpropertybrowserSettings.txt")
+# Directories
+set(ARCC_BUILD_DIR "/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/netanim_autogen")
+set(ARCC_INCLUDE_DIR "/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/netanim_autogen/include")
+# Rcc executable
+set(ARCC_RCC_EXECUTABLE "/usr/lib/x86_64-linux-gnu/qt4/bin/rcc")
+set(ARCC_RCC_LIST_OPTIONS "")
+# Rcc job
+set(ARCC_LOCK_FILE "/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/CMakeFiles/netanim_autogen.dir/RCCqtpropertybrowser.lock")
+set(ARCC_SOURCE "/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/qtpropertybrowser.qrc")
+set(ARCC_OUTPUT_CHECKSUM "SGJLZLPULO")
+set(ARCC_OUTPUT_NAME "qrc_qtpropertybrowser.cpp")
+set(ARCC_OPTIONS "-name;qtpropertybrowser")
+set(ARCC_INPUTS "/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-arrow.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-arrow.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-arrow.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-arrow.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-busy.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-closedhand.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-cross.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-cross.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-forbidden.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-forbidden.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-hand.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-hsplit.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-hsplit.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-ibeam.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-openhand.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-openhand.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-sizeall.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-sizeb.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-sizeb.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-sizef.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-sizeh.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-sizeh.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-sizev.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-uparrow.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-uparrow.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-vsplit.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-wait.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-wait.png;/home/tyjo/projects/sop/ns3/NS3/3rd-party/netanim/qtpropertybrowser/src/images/cursor-whatsthis.png")

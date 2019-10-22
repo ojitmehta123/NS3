@@ -6,6 +6,18 @@ cmake_minimum_required( VERSION 3.11 )
 #set(CMAKE_C_COMPILER "clang")
 #set(CMAKE_CXX_COMPILER "clang++")
 
+#TEST
+find_package(catkin REQUIRED COMPONENTS
+  roscpp
+  rospy
+  std_msgs
+)
+include_directories(
+# include
+  ${catkin_INCLUDE_DIRS}
+)
+##
+
 #######################################
 # Project name                        #
 #######################################
@@ -124,6 +136,8 @@ endif()
 
 
 
+#Build ROS simulation scripts
+#add_subdirectory(for_ROS)
 
 #Select libs to be built
 # libs marked with # on the right are compiling on windows
@@ -204,6 +218,8 @@ add_subdirectory(scratch)
 
 #Build test utils
 add_subdirectory(utils)
+
+
 
 
 
