@@ -63,7 +63,7 @@ option(NS3_TAP "Build with Tap support" OFF)
 set(NS3_TAP OFF)
 
 option(NS3_EMU "Build with emu support" OFF)
-set(NS3_EMU OFF)
+set(NS3_EMU ON)
 
 option(NS3_GNUPLOT "Build with Gnuplot support" OFF)
 set(NS3_GNUPLOT OFF)
