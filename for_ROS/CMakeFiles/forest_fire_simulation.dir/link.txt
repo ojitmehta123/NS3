@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/forest_fire_simulation.dir/forest_fire_simulation.cc.o  -o ../build/bin/forest_fire_simulation  -L/home/tyjo/projects/sop/ns3/NS3/build/lib  -L/home/tyjo/projects/sop/ns3/NS3/build/bin 
